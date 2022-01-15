@@ -27,3 +27,4 @@ This is some of my practices about R language!
 | Number | Context | Description |
 | ------ | ------- | ----------- |
 | 10     | [Plot](https://github.com/teddythinh/R-language-Practice/blob/main/UsingPlot.r) | Creating plot. 
+| 11     | 
