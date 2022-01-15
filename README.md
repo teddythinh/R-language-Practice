@@ -24,4 +24,6 @@ This is some of my practices about R language!
 | 9      | [Function](https://github.com/teddythinh/R-language-Practice/blob/main/Function.r) | Creating function.
 
 ### Advanced:
+| Number | Context | Description |
+| ------ | ------- | ----------- |
 | 10     | [Plot](https://github.com/teddythinh/R-language-Practice/blob/main/UsingPlot.r) | Creating plot. 
