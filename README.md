@@ -27,4 +27,10 @@ This is some of my practices about R language!
 | Number | Context | Description |
 | ------ | ------- | ----------- |
 | 10     | [Plot](https://github.com/teddythinh/R-language-Practice/blob/main/UsingPlot.r) | Creating plot. 
-| 11     | 
+| 11     | [Data Frame](https://github.com/teddythinh/R-language-Practice/blob/main/DataFrames.r) | Using data frame to analyse.
+| 12     | [Factors](https://github.com/teddythinh/R-language-Practice/blob/main/Factors.r) | Using factors to filter data.
+| 13     | [Pie chart](https://github.com/teddythinh/R-language-Practice/blob/main/PieCharts.r) | Some pie charts implementations.
+| 14     | [Bar chart](https://github.com/teddythinh/R-language-Practice/blob/main/BarCharts.r) | Some bar charts implementation.
+| 15     | [Graph 1](https://github.com/teddythinh/R-language-Practice/blob/main/Graph.r) | Graph implementation example.
+| 16     | [Graph 2](https://github.com/teddythinh/R-language-Practice/blob/main/Graph2.r) | More graph implementation example.
+| 17     | [Statistics Example](https://github.com/teddythinh/R-language-Practice/blob/main/StatisticsExample.r) | Using available data to set some graphs or analyse data.
