@@ -4,6 +4,10 @@
 
 This is some of my practices about R language!
 
+**NOTE: I'm not sure that my program runs properly, maybe there are some logical bugs, please feel free to contact me to fix these bugs. Thank you very much !**
+
+PLEASE GIVE MY CREDIT OR MENTION ME `@teddythinh` WHEN USING. THANKS !☺️☺️☺️
+
 ## Language uses:
 
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
