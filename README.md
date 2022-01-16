@@ -12,6 +12,11 @@ PLEASE GIVE MY CREDIT OR MENTION ME `@teddythinh` WHEN USING. THANKS !☺️☺�
 
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
+## IDE and Compiler:
+
+- IDE: RStudio 2021.09.1+372
+- Compiler: R-4.1.2
+
 ## Contents:
 
 ### Basic:
