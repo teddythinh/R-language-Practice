@@ -14,8 +14,8 @@ PLEASE GIVE MY CREDIT OR MENTION ME `@teddythinh` WHEN USING. THANKS !☺️☺�
 
 ## IDE and Compiler:
 
-- IDE: RStudio 2021.09.1+372
-- Compiler: R-4.1.2
+- IDE: RStudio v2021.09.1+372
+- Compiler: R-v4.1.2
 
 ## Contents:
 
