@@ -19,7 +19,7 @@ PLEASE GIVE MY CREDIT OR MENTION ME `@teddythinh` WHEN USING. THANKS !☺️☺�
 
 ## References:
 - R Tutorial. (2022). Retrieved 19 January 2022, from https://www.w3schools.com/r/
-- DataCamp course
+- DataCamp course.
 
 ## Contents:
 
