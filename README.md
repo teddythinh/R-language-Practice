@@ -17,6 +17,10 @@ PLEASE GIVE MY CREDIT OR MENTION ME `@teddythinh` WHEN USING. THANKS !☺️☺�
 - IDE: RStudio v2021.09.1+372
 - Compiler: R-v4.1.2
 
+## References:
+- R Tutorial. (2022). Retrieved 19 January 2022, from https://www.w3schools.com/r/
+- DataCamp course
+
 ## Contents:
 
 ### Basic:
