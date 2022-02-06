@@ -2,9 +2,9 @@
 
 ## Introduction:
 
-This is some of my practices about R language!
+This is a list of some of my R language practices!
 
-**NOTE: I'm not sure that my program runs properly, maybe there are some logical bugs, please feel free to contact me or open issues to fix these bugs. Thank you very much !**
+**NOTE: I'm not sure whether my program is working properly, perhaps there are a few logical bugs, please feel free to contact me or open issues to fix these bugs. Thank you so much!**
 
 PLEASE GIVE MY CREDIT OR MENTION ME `@teddythinh` WHEN USING. THANKS !☺️☺️☺️
 
@@ -14,7 +14,7 @@ PLEASE GIVE MY CREDIT OR MENTION ME `@teddythinh` WHEN USING. THANKS !☺️☺�
 
 ## Contribution:
 
-Contributions are welcome. Just contact my email or any social media accounts I have mentioned in profile. Thanks!
+Contributions are encouraged. Simply contact me via email or any of the social media platforms listed in my profile. Thanks!
 
 ## IDE and Compiler:
 
@@ -23,7 +23,7 @@ Contributions are welcome. Just contact my email or any social media accounts I 
 
 ## References:
 - R Tutorial. (2022). Retrieved 19 January 2022, from https://www.w3schools.com/r/
-- DataCamp course.
+- DataCamp Course.
 
 ## Contents:
 
@@ -50,4 +50,4 @@ Contributions are welcome. Just contact my email or any social media accounts I 
 | 14     | [Bar chart](https://github.com/teddythinh/R-language-Practice/blob/main/BarCharts.r) | Some bar charts implementation.
 | 15     | [Graph 1](https://github.com/teddythinh/R-language-Practice/blob/main/Graph.r) | Graph implementation example.
 | 16     | [Graph 2](https://github.com/teddythinh/R-language-Practice/blob/main/Graph2.r) | More graph implementation example.
-| 17     | [Statistics Example](https://github.com/teddythinh/R-language-Practice/blob/main/StatisticsExample.r) | Using available data to set some graphs or analyse data.
+| 17     | [Statistics Example](https://github.com/teddythinh/R-language-Practice/blob/main/StatisticsExample.r) | Creating graphs or analyzing data using data that is already available.
